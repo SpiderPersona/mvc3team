@@ -1,0 +1,52 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+  }
+
+  body {
+    background-image: url(https://static.wikia.nocookie.net/marvelvscapcom/images/2/25/UMvC3_logo.png/revision/latest?cb=20200128115002);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40%;
+    background-color: black;
+    
+  }
+
+.ironman {
+    color: red;
+    padding: 10px 0px;
+
+}
+
+#ironman {
+    width: 10%;
+    height: 150px;
+    
+}
+
+
+.vergil {
+    color: blue;
+    padding: 10px 0px;
+}
+
+#vergil {
+    width: 10%;
+    height: 150px;
+}
+
+.doom {
+    color: green;
+    padding: 10px 0px;
+}
+
+#doom {
+    width: 10%;
+    height: 150px;
+}
+
+a#youtube:hover {
+    color: purple;
+}
