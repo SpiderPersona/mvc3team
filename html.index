@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MvC Team</title>
+  <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+    <h1>Marvel Vs. Capcom Team</h1>
+    
+    <h2 class="ironman">Iron Man <img id="ironman" src="https://static.wikia.nocookie.net/marvelvscapcom/images/3/35/Iron_Man_UMvC3_artwork.png/revision/latest?cb=20200607122728" alt="Picture of Iron Man"></h2>
+
+    <h2 class="vergil">Virgin<img id="vergil" src="https://static.wikia.nocookie.net/marvelvscapcom/images/c/c2/Vergil_UMvC3_artwork.png/revision/latest?cb=20200105063609" alt="Picture of Vergil from Devil May Cry."/></h2>
+    
+    <h2 class="doom">and Dr. DAN<img id="doom" src="https://static.wikia.nocookie.net/marvelvscapcom/images/3/33/Doctor_Doom_UMvC3_artwork.png/revision/latest?cb=20200607122154" alt="Picture of Dr. Doom"/></h2>
+    
+    <a id="youtube" href="https://www.youtube.com/watch?v=rCgQaf69tvM" target="_blank">Reference</a>
+</body>
+</html>
